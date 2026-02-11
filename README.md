@@ -64,6 +64,7 @@ Agents communicate through **AgentTool** - ADK's built-in orchestration mechanis
 
 ## 📁 Project Structure
 
+```text
 Academic_Researcher/
 ├── .env                                  # API keys (not in git)
 ├── .gitignore                            # Git ignore file
@@ -88,7 +89,7 @@ Academic_Researcher/
 │
 └── __pycache__/                          # Python cache files
 
-```
+---
 
 **Design Decision:** Flat structure over nested packages for simpler imports and deployment.
 
@@ -392,3 +393,4 @@ If this project helped your research, please consider giving it a star!
 ---
 
 **Built with ❤️ for researchers | Powered by Google ADK & Gemini 2.5 Flash**
+
