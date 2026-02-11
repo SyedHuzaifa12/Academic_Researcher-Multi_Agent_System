@@ -88,7 +88,7 @@ Academic_Researcher/
 │   └── (auto-generated files)
 │
 └── __pycache__/                          # Python cache files
-
+```
 ---
 
 **Design Decision:** Flat structure over nested packages for simpler imports and deployment.
@@ -395,5 +395,6 @@ If this project helped your research, please consider giving it a star!
 ---
 
 **Built with ❤️ for researchers | Powered by Google ADK & Gemini 2.5 Flash**
+
 
 
