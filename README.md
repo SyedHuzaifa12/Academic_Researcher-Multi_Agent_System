@@ -102,6 +102,8 @@ Academic_Researcher/
 - Python 3.8 or higher
 - Google Gemini API key ([Get one free](https://aistudio.google.com/apikey))
 
+---
+
 ### Step 1: Clone Repository
 
 ```bash
@@ -393,4 +395,5 @@ If this project helped your research, please consider giving it a star!
 ---
 
 **Built with ❤️ for researchers | Powered by Google ADK & Gemini 2.5 Flash**
+
 
