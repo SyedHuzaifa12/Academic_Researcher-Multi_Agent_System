@@ -99,7 +99,7 @@ Academic_Researcher/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Google Gemini API key ([Get one free](https://aistudio.google.com/apikey))
 
 ---
@@ -395,6 +395,7 @@ If this project helped your research, please consider giving it a star!
 ---
 
 **Built with ❤️ for researchers | Powered by Google ADK & Gemini 2.5 Flash**
+
 
 
 
