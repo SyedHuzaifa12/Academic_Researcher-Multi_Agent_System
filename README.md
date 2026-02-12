@@ -285,7 +285,7 @@ adk web Academic_Researcher
 **Error:** `Invalid API key` or `401 Unauthorized`
 
 **Solution:**
-1. Check `.env` file exists in `Academic_Researcher/` directory
+1. Check `.env` file exists in `Academic_Researcher/ directory
 2. Verify API key format (no quotes, no spaces)
 3. Test API key at https://aistudio.google.com/apikey
 4. Ensure key has not exceeded rate limits
@@ -395,6 +395,7 @@ If this project helped your research, please consider giving it a star!
 ---
 
 **Built with ❤️ for researchers | Powered by Google ADK & Gemini 2.5 Flash**
+
 
 
 
