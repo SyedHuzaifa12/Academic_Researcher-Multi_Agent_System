@@ -21,7 +21,7 @@ Researchers face three key challenges:
 2. **Citation discovery** - Finding recent citing papers requires searching multiple databases
 3. **Research direction identification**- Spotting gaps and future opportunities needs domain expertise
 
-This system automates the entire workflow in under 2 minutes per paper.
+This system automates the entire workflow in under 2 mins per paper.
 
 ---
 
