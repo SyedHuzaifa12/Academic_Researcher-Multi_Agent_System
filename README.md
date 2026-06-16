@@ -19,7 +19,7 @@ An intelligent multi-agent system built with Google ADK that automates academic 
 Researchers face three key challenges:
 1. **Manual paper analysis** - Extracting insights from papers is time-consuming
 2. **Citation discovery** - Finding recent citing papers requires searching multiple databases
-3. **Research direction identification** - Spotting gaps and future opportunities needs domain expertise
+3. **Research direction identification**- Spotting gaps and future opportunities needs domain expertise
 
 This system automates the entire workflow in under 2 minutes per paper.
 
