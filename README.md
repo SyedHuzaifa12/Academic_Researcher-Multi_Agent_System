@@ -184,7 +184,7 @@ Authors: Vaswani et al. (Google Brain, 2017)
 1. Energy-Efficient Transformer Variants
    Rationale: While transformers excel in performance, computational cost 
    remains prohibitive for edge devices. Research into sparse attention 
-   mechanisms and quantization could enable mobile deployment.....
+   mechanisms and quantization could enable mobile deployment......
 ```
 
 ---
