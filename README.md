@@ -122,7 +122,7 @@ pip install google-adk python-dotenv
 Create `.env` file in `Academic_Researcher/` directory:
 
 ```env
-GEMINI_API_KEY=your_actual_api_key_here
+GEMINI_API_KEY= your_actual_api_key_here
 ```
 
 ### Step 4: Run Application
