@@ -390,7 +390,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## ⭐ Star History
 
-If this project helped your research, please consider giving it a star!
+If this project helped your research, please consider giving it a star !
 
 ---
 
