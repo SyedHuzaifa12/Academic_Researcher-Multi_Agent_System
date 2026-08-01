@@ -286,7 +286,7 @@ adk web Academic_Researcher
 
 **Solution:**
 1. Check `.env` file exists in `Academic_Researcher/ directory
-2. Verify API key format (no quotes, no spaces)
+2. Verify API key format (no quotes, no spaces )
 3. Test API key at https://aistudio.google.com/apikey
 4. Ensure key has not exceeded rate limits
 
